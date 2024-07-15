@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns dos meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Estou recompartilhando esses exercícios porque meu antigo GitHub deu problema. Aproveita e venha conhecer meu site também, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://linkedin.com/in/caioroch).
+Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns dos meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Aproveita e venha conhecer meu site também, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://linkedin.com/in/caioroch).
 
 
 ## Stacks de Tecnologias
