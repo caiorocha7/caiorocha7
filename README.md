@@ -21,38 +21,3 @@ Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns d
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
-## Projetos
-
-Segue abaixo alguns dos meus projetos recentes ou interessantes...
-
-### Abaré APP
-Desenvolvido em Flutter como parte de um projeto de extensão universitária para fornecer suporte eficaz a estudantes autistas no ambiente escolar.
-
-- Desenvolvi o aplicativo usando Dart e Flutter, integrando com uma API externa.
-- Implementei uma interface amigável e acessível para facilitar o uso por estudantes e educadores.
-
-### Ruby Projects
-Projetos desenvolvidos como parte do aprendizado da linguagem Ruby.
-
-- **Inventory Management**: Desenvolvi um sistema para gerenciar o estoque de produtos usando Ruby on Rails.
-- **BMI Calculator**: Criei um aplicativo para calcular o índice de massa corporal com interfaces gráficas simples.
-- **Email Generator**: Automatizei a criação de endereços de email para novos funcionários usando scripts em Ruby.
-- **Spreadsheet Data Analysis**: Desenvolvi scripts para extrair e analisar dados de planilhas, facilitando a tomada de decisões.
-
-## Como utilizar:
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/caiorocha7
-   cd caiorocha7
-   ```
-
-2. Execute os scripts para ver a mágica acontecer.
-
-Esses exercícios foram de crucial importância para o meu aprendizado e crescimento. Espero que eles sejam tão úteis para vocês quanto foram para mim.
-
-### Contribuições:
-Contribuições são mais que bem-vindas! Se tiver sugestões, melhorias ou quiser adicionar mais exercícios, sinta-se à vontade para abrir um pull request.
-
-Vamos crescer juntos na comunidade Ruby! 🖥️💎
-
-#Ruby #Programação #Desenvolvimento #GitHub #OpenSource #LearningByDoing #DesenvolvimentoDeSoftware
