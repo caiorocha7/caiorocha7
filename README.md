@@ -18,8 +18,9 @@ Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns d
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
 
 ### Acesse meus projetos:
 [![GitHub](https://img.shields.io/badge/GitHub-caiorocha7-181717?style=flat&logo=github)](https://github.com/caiorocha7)
