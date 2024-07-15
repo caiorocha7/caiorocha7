@@ -21,3 +21,5 @@ Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns d
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
+### Acesse meus projetos:
+[![GitHub](https://img.shields.io/badge/GitHub-caiorocha7-181717?style=flat&logo=github)](https://github.com/caiorocha7)
