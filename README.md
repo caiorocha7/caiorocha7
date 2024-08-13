@@ -13,6 +13,7 @@ Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns d
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails)
 
 ### Algumas das minhas secundárias:
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
