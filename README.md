@@ -1,27 +1,36 @@
-# Bem vindo ao meu GitHub!
+## Caio Rocha
 
-## Sobre mim
+**Engenheiro de Software · Backend & Full Stack · IA Aplicada**<br>
+Teresina, Brasil · aberto a oportunidades remotas
 
-Olá, tudo bom? Seja bem vindo ao meu GitHub, aqui você irá encontrar alguns dos meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Aproveita e venha conhecer meu linkedin também, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://linkedin.com/in/caioroch).
+Desenvolvo sistemas backend e full stack para produtos SaaS: APIs REST, integrações, processamento assíncrono e
+aplicações com IA. Experiência profissional com Python/FastAPI, Angular/TypeScript e plataformas multi-tenant,
+com atenção a concorrência, segurança e testes automatizados.
 
+Bacharel em Engenharia de Software e pós-graduando em Inteligência Artificial (iCEV).
 
-## Stacks de Tecnologias
+**Portfólio:** [caiorocha7.github.io/caio-rocha-portfolio](https://caiorocha7.github.io/caio-rocha-portfolio/) ·
+**LinkedIn:** [linkedin.com/in/caioroch](https://linkedin.com/in/caioroch) ·
+**E-mail:** [caiovinicios82@gmail.com](mailto:caiovinicios82@gmail.com)
 
-### Principal:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails)
+### Projetos em destaque
 
-### Algumas das minhas secundárias:
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+| Projeto | O que demonstra | Stack |
+|---|---|---|
+| [**RouteOps**](https://github.com/caiorocha7/routeops-fullstack) | Plataforma full stack de gestão logística: RBAC, máquina de estados de entregas, mapa com rastreamento simulado, dashboards e relatórios. 76 testes (unitários, integração com PostgreSQL e E2E). | React · NestJS · Prisma · PostgreSQL · Playwright |
+| [**DocPilot AI**](https://github.com/caiorocha7/docpilot-ai) | IA para documentos: RAG com citações verificáveis e gate de evidência, extração estruturada com revisão humana, defesas contra prompt injection e avaliações quantitativas. 182 testes. | FastAPI · Next.js · pgvector · Celery · Ollama |
+| [**ConnectHub**](https://github.com/caiorocha7/connecthub-integrations) | Integrações por webhook resilientes: assinatura HMAC, idempotência, outbox transacional, retentativas com backoff, reprocessamento e simulador de falhas. 83 testes + E2E de resiliência. | FastAPI · Angular · PostgreSQL · Redis · Celery |
 
+Os três têm CI no GitHub Actions, capturas reais e limitações documentadas no README.
 
-### Acesse meus projetos:
-[![GitHub](https://img.shields.io/badge/GitHub-caiorocha7-181717?style=flat&logo=github)](https://github.com/caiorocha7)
+### Stack principal
+
+- **Backend:** Python, FastAPI, SQLAlchemy, Node.js, NestJS, Prisma, Celery, APIs REST
+- **Frontend:** TypeScript, Angular, React, Next.js, Tailwind CSS
+- **Dados e IA:** PostgreSQL, MySQL, Redis, pgvector, LLMs, RAG, Ollama
+- **DevOps e qualidade:** Docker, GitHub Actions, AWS, Pytest, Jest, Vitest, Playwright
+
+---
+
+<sub>English: Software Engineer focused on backend, full stack and applied AI, based in Teresina, Brazil, open to
+remote roles. See the [portfolio](https://caiorocha7.github.io/caio-rocha-portfolio/en/) for case studies.</sub>
