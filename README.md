@@ -1,26 +1,26 @@
 ## Caio Rocha
 
-**Engenheiro de Software · Backend & Full Stack · IA Aplicada**<br>
+**Engenheiro de Software · Backend Python & Full Stack · Integrações e IA aplicada**<br>
 Teresina, Brasil · aberto a oportunidades remotas
 
-Desenvolvo sistemas backend e full stack para produtos SaaS: APIs REST, integrações, processamento assíncrono e
-aplicações com IA, com atenção a concorrência, segurança e testes automatizados.
-
-Bacharelado em Engenharia de Software e pós-graduação em Inteligência Artificial (iCEV).
+16 meses de experiência em um SaaS multi-tenant em produção, com Python/FastAPI, Angular, MySQL e AWS.
+Formação em Engenharia de Software e pós-graduação em Inteligência Artificial (iCEV).
 
 **Portfólio:** [caiorocha7.github.io/caio-rocha-portfolio](https://caiorocha7.github.io/caio-rocha-portfolio/) ·
 **LinkedIn:** [linkedin.com/in/caioroch](https://linkedin.com/in/caioroch) ·
 **E-mail:** [caiovinicios82@gmail.com](mailto:caiovinicios82@gmail.com)
 
-### Experiência profissional em destaque
+### Experiência profissional
 
-**MetaMundi · Desenvolvedor de Software (Full Stack) · 2025 a 2026**
+**MetaMundi · Desenvolvedor de Software (Full Stack) · jul/2025 a nov/2026**<br>
+CRMundi e ChatMundi: SaaS multi-tenant de gestão comercial, financeira e atendimento WhatsApp para agências de viagem.
 
-Atuei no **CRMundi**, SaaS multi-tenant de gestão comercial, financeira e atendimento para agências de viagem, e no
-**ChatMundi**, o atendimento WhatsApp integrado ao CRM. Entre as entregas: atendimento WhatsApp nativo com
-Chatwoot e Evolution API e provisionamento idempotente por tenant, microsserviço FastAPI com WebSocket, SSO com
-JWT RS256/JWKS, distribuição Round Robin transacional com rollout por fases, um assistente gerencial com LLM e
-respostas determinísticas, e consistência transacional em vendas e financeiro com MySQL.
+- Atendimento WhatsApp dentro do CRM com Chatwoot e Evolution API, com provisionamento idempotente por tenant.
+- Microsserviço FastAPI para conversas, trocando polling por WebSocket autenticado por tenant.
+- Distribuição Round Robin transacional no MySQL, ativada por tenant em fases (OFF, SHADOW, ENFORCE).
+- Controle de acesso legado migrado para uma matriz RBAC central em 11 módulos de duas aplicações.
+- Assistente com LLM em que o modelo só classifica a intenção e os números vêm de consultas pré-definidas.
+- Numeração de ordens de serviço sem colisões sob concorrência e faturamento com PDF em AWS Lambda.
 
 Produto proprietário, sem repositório público. Detalhes no
 [estudo de caso](https://caiorocha7.github.io/caio-rocha-portfolio/pt/experience/crmundi/).
@@ -29,22 +29,20 @@ Produto proprietário, sem repositório público. Detalhes no
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**RouteOps**](https://github.com/caiorocha7/routeops-fullstack) | Gestão logística com motoristas, veículos, entregas, mapas, ocorrências e rastreamento simulado. | React · NestJS · Prisma · PostgreSQL |
-| [**DocPilot AI**](https://github.com/caiorocha7/docpilot-ai) | Análise de documentos com IA: perguntas com citações verificáveis (RAG), extração estruturada e revisão humana. | Next.js · FastAPI · pgvector · Celery · Ollama |
-| [**ConnectHub**](https://github.com/caiorocha7/connecthub-integrations) | Integrações por webhook com processamento assíncrono, idempotência, retentativas e transformações JSON. | Angular · FastAPI · PostgreSQL · Redis · Celery |
+| [**DocPilot AI**](https://github.com/caiorocha7/docpilot-ai) | Perguntas sobre documentos com citações verificáveis (RAG), extração estruturada e revisão humana. | Next.js · FastAPI · pgvector · Celery · Ollama |
+| [**ConnectHub**](https://github.com/caiorocha7/connecthub-integrations) | Webhooks assinados com outbox transacional, idempotência, retentativas e reprocessamento. | Angular · FastAPI · PostgreSQL · Redis · Celery |
+| [**RouteOps**](https://github.com/caiorocha7/routeops-fullstack) | Gestão logística com regras de negócio no servidor, mapa com rastreamento simulado e relatórios. | React · NestJS · Prisma · PostgreSQL |
 
-Os três têm CI no GitHub Actions, capturas reais e limitações documentadas no README.
+Os três têm testes automatizados, CI no GitHub Actions e limitações documentadas no README.
 
-### Stack principal
+### Tecnologias
 
-- **Backend:** Python, FastAPI, SQLAlchemy, Alembic, Node.js, NestJS, Prisma, Celery, APIs REST
-- **Frontend:** TypeScript, Angular, React, Next.js, Tailwind CSS
-- **Dados e integrações:** MySQL, PostgreSQL, Redis, Chatwoot, Evolution API, WebSocket, webhooks
-- **IA:** LLMs, RAG, pgvector, Ollama
-- **Cloud e qualidade:** AWS (Lambda, S3, ECS), Docker, GitHub Actions, GitLab CI, Pytest, Playwright
+- **Backend:** Python, FastAPI, SQLAlchemy, Alembic, MySQL, PostgreSQL, Pytest
+- **Frontend:** Angular, TypeScript, PrimeNG; React e Next.js nos projetos pessoais
+- **Integrações e IA:** Chatwoot, Evolution API, webhooks, WebSocket, n8n, LLMs; RAG e pgvector nos projetos pessoais
+- **Cloud e segurança:** AWS (Lambda, S3, ECS, EventBridge), Docker, GitLab CI, GitHub Actions, JWT/JWKS, RBAC
 
 ---
 
-<sub>English: Software Engineer focused on backend, full stack and applied AI, based in Teresina, Brazil, open to
-remote roles. See the [portfolio](https://caiorocha7.github.io/caio-rocha-portfolio/en/) for the CRMundi case study
-and personal projects.</sub>
+<sub>English: Software Engineer (Python backend and full stack) with 16 months on a multi-tenant SaaS in production,
+based in Teresina, Brazil, open to remote roles. See the [portfolio](https://caiorocha7.github.io/caio-rocha-portfolio/en/).</sub>
