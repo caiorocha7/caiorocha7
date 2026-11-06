@@ -34,15 +34,16 @@ Produto proprietário, sem repositório público. Detalhes no
 | [**RouteOps**](https://github.com/caiorocha7/routeops-fullstack) | Gestão logística com entregas, motoristas, veículos, ocorrências, dashboards e rastreamento simulado no mapa. |
 | [**DocPilot AI**](https://github.com/caiorocha7/docpilot-ai) | Análise de documentos com respostas baseadas em evidências (RAG), citações verificáveis e extração com revisão humana. |
 | [**ConnectHub**](https://github.com/caiorocha7/connecthub-integrations) | Integração entre sistemas com webhooks, filas, processamento assíncrono, controle de duplicidade e recuperação de falhas. |
+| [**OrderFlow**](https://github.com/caiorocha7/orderflow-java) | Pedidos e estoque em Java/Spring Boot com Kafka: reserva segura sob concorrência, outbox, consumidor idempotente e DLT. |
 
-Os três têm testes automatizados, CI no GitHub Actions e limitações documentadas no README.
+Os quatro têm testes automatizados, CI no GitHub Actions e limitações documentadas no README.
 
 ### Competências técnicas
 
-- **Backend e dados:** Python, FastAPI, SQLAlchemy, MySQL, APIs REST; Node.js, NestJS, PostgreSQL, Redis e Celery nos projetos próprios
+- **Backend e dados:** Python, FastAPI, SQLAlchemy, MySQL, APIs REST; Java, Spring Boot, Apache Kafka, Node.js, NestJS, PostgreSQL, Redis e Celery nos projetos próprios
 - **Frontend e integrações:** Angular, TypeScript, WebSocket, webhooks, n8n; React e Next.js nos projetos próprios
 - **IA aplicada:** LLMs, engenharia de prompts e validação de respostas; RAG, embeddings, pgvector, Ollama e avaliações nos projetos próprios
-- **Cloud, qualidade e segurança:** AWS (Lambda, S3, ECS), Docker, CI/CD, Pytest, Git, JWT, RBAC; Playwright nos projetos próprios
+- **Cloud, qualidade e segurança:** AWS (Lambda, S3, ECS), Docker, CI/CD, Pytest, Git, JWT, RBAC; JUnit 5, Testcontainers e Playwright nos projetos próprios
 - **Desenvolvimento assistido por IA:** uso o Claude Code no dia a dia para implementação, investigação e revisão, validando o resultado com testes e CI
 
 ---
